@@ -1,0 +1,13 @@
+{
+  "name": "Tablea: gDrive gallery viewer",
+  "description": "Python/Heroku/Google Drive photo gallery viewer website",
+  "keywords": [
+    "python",
+    "flask",
+	  "google drive",
+    "photo gallery",
+    "google api"
+  ],
+  "website": "http://tablea.herokuapp.com",
+  "repository": "http://github.com/samuele-mattiuzzo/tablea"
+}

@@ -3,7 +3,7 @@
 
 ### Tech stack
 
-- GO language
+- Python + Flask
 - Bootsrap framework
 - Heroku servers
 
